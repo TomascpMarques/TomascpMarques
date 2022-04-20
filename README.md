@@ -3,5 +3,5 @@
 - 👀 I’m interested in Web development, front/back-end 
 - 🌱 I’m currently learning Svelte
 - 👨‍💻 I use Go, Python, JS/TS, +/-Rust
-- 📫 How to reach me ... who knows
+- 📫 You can reach me here -> [ninbo.sum@proton.me](mailto:ninbo.sum@proton.me)
 
